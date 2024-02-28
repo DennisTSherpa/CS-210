@@ -24,7 +24,7 @@ Answer: Using vectors to produce the correct output is where my program shines b
  
 3. Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-Answer: I could enhance my code in the area that obtains the frequency of an item by utilizing maps or pointers instead of vectors. Its utilization would make my code editable and applicable to larger datasets. Also, it could become more reliable to produce the correct output for various situations.
+Answer: I could enhance my code in the area that obtains the frequency of an item by utilizing maps or pointers instead of vectors. Its utilization would make my code editable and applicable to larger datasets. Also, it could make it reliable to produce the correct output for various situations.
 
 
 4. Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
