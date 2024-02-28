@@ -3,14 +3,18 @@
 1. Summarize the project and what problem it was solving.
 
 Answer: The project aimed to prompt the user with a menu containing four options and execute the chosen option utilizing the input file "CS210_Project_Three_Input_File". Those four options were:
+  
   Option one:
     Prompts the user to input an item's name they wish to look for.
     Returns the number of times that item was purchased.
+    
   Option Two:
     Prints a list containing all the items and the number of times that item was purchased as a numerical value.
+    
   Option Three:
     Prints a histogram containing all the items and the number of times that item was purchased as a unique     
     character.
+    
   Option Four:
     Ends the program.
 
