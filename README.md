@@ -6,14 +6,15 @@ Answer: The project aimed to prompt the user with a menu containing four options
   
   Option one:
     Prompts the user to input an item's name they wish to look for.
-    Returns the number of times that item was purchased.
+    
+    
+  Returns the number of times that item was purchased.
     
   Option Two:
     Prints a list containing all the items and the number of times that item was purchased as a numerical value.
     
   Option Three:
-    Prints a histogram containing all the items and the number of times that item was purchased as a unique     
-    character.
+    Prints a histogram containing all the items and the number of times that item was purchased as a unique character.
     
   Option Four:
     Ends the program.
