@@ -34,7 +34,7 @@ Answer: Coming up with the algorithm to obtain the number of times each item was
 
 5. What skills from this project will be particularly transferable to other projects or coursework?
 
-Answer: The logic behind the various codes read and created throughout the course. Also, the most valuable topics for me were pointers and polymorphism, which will be important in my future programming endeavors.
+Answer: The logic behind the various codes read and created throughout the course. Furthermore, the most valuable topics for me were pointers and polymorphism, which will be important in my future programming endeavors.
 
 
 6. How did you make this program maintainable, readable, and adaptable?
